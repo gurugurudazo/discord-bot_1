@@ -1,0 +1,2 @@
+language="python3"
+run="pip install nextcord\npython3 main.py"
